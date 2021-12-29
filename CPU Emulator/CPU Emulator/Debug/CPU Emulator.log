@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\nickk\source\repos\CPU Emulator\CPU Emulator\main.cpp(326,96): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\nickk\source\repos\CPU Emulator\CPU Emulator\main.cpp(326,119): warning C4018: '>': signed/unsigned mismatch
+C:\Users\nickk\source\repos\CPU Emulator\CPU Emulator\main.cpp(326,139): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\nickk\source\repos\CPU Emulator\CPU Emulator\main.cpp(326,162): warning C4018: '<': signed/unsigned mismatch
+  CPU Emulator.vcxproj -> C:\Users\nickk\source\repos\CPU Emulator\Debug\CPU Emulator.exe
